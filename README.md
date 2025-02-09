@@ -1,5 +1,3 @@
-![Welcome Banner](https://your-image-url.com/banner.png)
-
 # 👋 Welcome  
 **Jongwook Lee Profile**
 
@@ -44,9 +42,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white)
-
----
-
-### 📢 Contact  
-🔗 [GitHub](https://github.com/jongwooklee)
 
