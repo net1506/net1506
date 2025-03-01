@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍🎓 Programmers
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/net1506/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/net1506/github-programmers-rank)
 
 ---
 
